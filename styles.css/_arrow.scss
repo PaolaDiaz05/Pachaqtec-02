@@ -1,0 +1,28 @@
+/*Arrow*/
+
+.arrow {
+    display: flex;
+    justify-content: space-between;
+
+    .arrows {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 20px;
+
+        .arrow-left {
+            text-decoration: none;
+            color: #356EAD;
+            font-size: 1.3rem;
+            margin-left: 20px;
+        }
+
+        .arrow-right {
+            text-decoration: none;
+            color: #356EAD;
+            font-size: 1.3rem;
+            margin-right: 20px;
+        }
+
+    }
+}

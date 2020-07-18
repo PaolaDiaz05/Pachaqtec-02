@@ -1,0 +1,44 @@
+/*Articles*/
+
+.bloque-1 {
+    display: flex;
+    justify-content: space-between;
+
+    .image-bloque {
+        margin-top: 0.6rem;
+        padding: 0.6rem; 
+    }
+
+    h3 {
+        color: #356EAD;
+        font-size: 1.4rem;
+        line-height: 2rem;
+    }
+    
+    p {
+        font-size: 1rem;
+        padding: 0.6rem 1.6rem 0.6rem 0rem;
+    }
+        
+    .autor {
+       padding-top: 1rem;
+    }
+        
+    .share {
+        padding-top: 1.6rem;
+        padding-right: 1.2rem;
+    
+    }
+
+    
+
+    
+    
+
+
+}
+
+
+
+
+

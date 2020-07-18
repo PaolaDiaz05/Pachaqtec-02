@@ -1,0 +1,36 @@
+/*All Articles*/
+
+.Bloque-2 {
+    margin: 0rem 10rem;
+    padding: 0rem 6.9rem 1.3rem 0rem;
+
+    .all-articles {
+
+        h3 {
+        font-size: 1.2rem;
+        color: #356EAD;
+        padding: 1.9rem 1.3rem 0.6rem 0rem;
+        }
+
+        .more-articles {
+            display: flex;
+            justify-content: space-between;
+
+            figure{
+                margin: 1.9rem;
+            }  
+        }
+
+        .autor {
+            padding: 3rem 0rem;
+        }
+    }
+}
+
+
+
+
+
+
+
+

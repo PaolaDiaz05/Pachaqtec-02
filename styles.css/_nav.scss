@@ -1,0 +1,26 @@
+nav {
+
+    ul{   
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    
+        li {
+            margin-right: 4.4rem;
+            margin-top: 3.4rem;
+            margin-bottom: 2.5rem;
+            font-size: 1.3rem;
+            font-weight: bold;
+
+            a {
+                text-decoration: none;
+                color: #1F3F68;
+            }
+        }
+    } 
+
+}
+
+
+
+

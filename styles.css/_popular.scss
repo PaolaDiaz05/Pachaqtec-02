@@ -1,0 +1,58 @@
+/*Popular*/
+
+.new-articles {
+    padding: 0rem 6.3rem;
+    margin: 0rem 6.3rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    color: #356EAD;
+    padding-bottom: 1.9rem;
+}
+
+p {
+    font-size: 0.9rem;
+    line-height: 1.6rem;
+    text-align: justify;
+    padding-right: 1.3rem;
+}
+
+.popular {
+    display: flex;
+    justify-content: space-between;
+
+    .article-popular {
+    
+        h2 {
+            color:#1F3F68;
+            font-size: 2.3rem;
+        }
+        
+        .columnist {
+            display: flex;
+            justify-content: space-between;
+
+            .autor {
+                color: #1F3F68;
+                padding-top: 4.4rem;
+            }
+            
+            .share {
+                display: flex;
+                justify-content: space-between;
+                padding-top: 5rem;
+                padding-right: 20px;
+                
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+

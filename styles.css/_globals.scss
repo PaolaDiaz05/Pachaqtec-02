@@ -1,0 +1,32 @@
+/*Global*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 0.9rem;
+   background: #FFFFFF;
+   width: 1366px;
+   margin: auto; 
+   letter-spacing: 0.04em;
+}
+
+.columnist {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .autor {
+        color: #1F3F68;
+        
+    }
+    
+    .share {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+}
